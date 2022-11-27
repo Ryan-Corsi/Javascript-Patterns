@@ -34,3 +34,15 @@ MVC:
 Diagrama de Classe: 
 
 ![image (2)](https://user-images.githubusercontent.com/89093793/204147208-63002505-001e-4b4e-98a3-4fee419a5417.png)
+
+
+Singleton:
+
+![image (3)](https://user-images.githubusercontent.com/89093793/204148100-2adae51b-1538-43ed-a0a6-7a13764919b1.png)
+
+
+Builder:
+
+![image (5)](https://user-images.githubusercontent.com/89093793/204148146-41ee64e1-3860-44f7-9fd4-5d4f0849d863.png)
+
+
