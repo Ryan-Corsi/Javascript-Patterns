@@ -3,7 +3,7 @@
 Projeto proposto pela matéria Arquitetura de Software, do 4° Semestre de TADS - IFSP Campinas
 
 Integrantes: 
-  Cleber Carvalho
+  Cleber Carvalho - 
   Ryan Corsi
 
 📋 Descrição:
