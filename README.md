@@ -13,6 +13,10 @@ Caso de Uso:
 
 ![image (1)](https://user-images.githubusercontent.com/89093793/204146921-4b674f8b-f7fa-4af7-8bf9-11dce052b04c.png)
 
+Diagrama de Contexto:
+
+![DiagramaDeContexto-C4 drawio](https://user-images.githubusercontent.com/89093793/204152085-96b1baf1-8afb-4ed4-b54a-4b682bce7c73.png)
+
 
 Diagrama de Componente:
 
@@ -22,11 +26,6 @@ Diagrama de Componente:
 Diagrama de Container: 
 
 ![DiagramaContainer drawio (1)](https://user-images.githubusercontent.com/89093793/204146497-cd55b689-8ffc-4f1a-a41f-b1d71282fc2f.png)
-
-
-Diagrama de Contexto:
-
-![DiagramaDeContexto-C4 drawio (1)](https://user-images.githubusercontent.com/89093793/204146526-838fa172-de27-44b1-a2be-13e6fa5373ce.png)
 
 
 MVC:
