@@ -7,7 +7,7 @@ Integrantes:
   Ryan Corsi
 
 📋 Descrição:
-Esse sistema está sendo desenvolvido com o objetivo de realizar testes de desempenho em relação ao uso de design patterns em frameworks javascripts, especificamente React e Vue.
+Esse sistema está sendo desenvolvido com o objetivo de realizar testes de desempenho em relação ao uso de design patterns em frameworks javascripts, especificamente em React.
 
 Caso de Uso:
 
